@@ -1,12 +1,12 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: Fucking Awesome Product
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
-- photography
-- pink
+- great
+- sojin
 project_bg_color: ''
 project_fg_color: ''
 
